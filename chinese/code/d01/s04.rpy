@@ -10,7 +10,7 @@ translate chinese s04_2433015c:
 translate chinese s04_0afa175b:
 
     # mct "There's Pete."
-    mct "Pete来了。"
+    mct "皮特来了。"
 
 # game/code/d01/s04.rpy:163
 translate chinese s04_669664cb:
